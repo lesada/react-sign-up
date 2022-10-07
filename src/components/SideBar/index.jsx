@@ -5,11 +5,11 @@ import Input from "../Input";
 const SideBar = () => {
   return (
     <Container>
-      <h1>
+      <h2>
         &lt; Lesada / &gt; <span>Codes</span>
-      </h1>
+      </h2>
       <Form>
-        <h2>Sign Up</h2>
+        <h3>Sign Up</h3>
         <Input placeholder="Full Name" required />
         <Input type="email" placeholder="Email" required />
         <Input type="password" placeholder="Password" required />

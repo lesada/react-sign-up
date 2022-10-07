@@ -5,13 +5,13 @@ export const Container = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  /* flex: 1; */
+  flex: 2;
 
   background: rgba(255, 255, 255, 0.87);
   height: 100vh;
-  width: 400px;
+  min-width: 400px;
 
-  h1 {
+  h2 {
     font-size: 28px;
     font-weight: 700;
     color: #ff8d8d;
@@ -45,7 +45,7 @@ export const Form = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  h2 {
+  h3 {
     color: #666666;
     font-weight: 700;
     margin-bottom: 1rem;

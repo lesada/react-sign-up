@@ -1,11 +1,13 @@
 import styled from "styled-components";
 import SideBar from "./components/SideBar";
+import Main from "./components/Main";
 import bgImg from "./assets/bg.png";
 
 function App() {
   return (
     <Wrapper>
       <SideBar />
+      <Main />
     </Wrapper>
   );
 }
