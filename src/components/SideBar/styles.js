@@ -8,7 +8,6 @@ export const Container = styled.div`
   /* flex: 1; */
 
   background: rgba(255, 255, 255, 0.87);
-  backdrop-filter: blur(24px);
   height: 100vh;
   width: 400px;
 
