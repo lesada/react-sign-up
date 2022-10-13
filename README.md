@@ -18,7 +18,7 @@ Inspiration-Figma: [React-Signup](https://www.figma.com/file/iplx8vxEZYMVWi2bog8
 
 ### Clone the application
 
-`$ git clone https://github.com/guilhermecapitao/react-sign-up.git`
+`$ git clone https://github.com/lesada/react-sign-up.git`
 
 ### Available Scripts
 
