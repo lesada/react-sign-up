@@ -6,14 +6,14 @@ Inspiration-Figma: [React-Signup](https://www.figma.com/file/iplx8vxEZYMVWi2bog8
 
 ## 🧪 Technologies
 
-- [TypeScript](https://www.typescriptlang.org/)
+- [JavaScript](https://www.javascript.com/)
 - [React](https://reactjs.org/)
 - [Styled-Components](https://styled-components.com/)
 
 ## 💻 Preview Site Link
 
 <button>
-<a href="https://lesada.github.io/clone-twitter/">
+<a href="https://lesada.github.io/react-sign-up/">
 <img src="https://user-images.githubusercontent.com/68572174/195865629-c4573fa2-7593-4211-bed8-d3b0070340b1.png"  width="100">
 </a>
 </button>
@@ -22,7 +22,7 @@ Inspiration-Figma: [React-Signup](https://www.figma.com/file/iplx8vxEZYMVWi2bog8
 
 ### Clone the application
 
-`$ git clone https://github.com/lesada/clone-twitter.git`
+`$ git clone https://github.com/lesada/react-sign-up.git`
 
 ### Available Scripts
 
