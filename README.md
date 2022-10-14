@@ -10,9 +10,13 @@ Inspiration-Figma: [React-Signup](https://www.figma.com/file/iplx8vxEZYMVWi2bog8
 - [React](https://reactjs.org/)
 - [Styled-Components](https://styled-components.com/)
 
-## 💻 Preview
+## 💻 Preview Site Link
 
-[![image](https://user-images.githubusercontent.com/68572174/195693133-36c882c3-7a84-4349-9d6b-6c77a2afaa7b.png)](https://lesada.github.io/react-sign-up/)
+<button>
+<a href="https://lesada.github.io/react-sign-up/">
+<img src="https://user-images.githubusercontent.com/68572174/195865629-c4573fa2-7593-4211-bed8-d3b0070340b1.png"  width="100">
+</a>
+</button>
 
 ## 🚀 Getting started
 
